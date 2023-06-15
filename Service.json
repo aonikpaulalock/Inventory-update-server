@@ -1,0 +1,66 @@
+[
+  {
+      "name": "Comp Alloy 6Fattie/29",
+      "price": "100.00",
+      "quantity":"8",     
+      "description": "You need a bike that can take a hit and dish it right back out ten-fold. In other words, you need the Stumpjumper Comp Alloy 6Fattie/29",
+      "img": "https://i.ibb.co/1L4qGVR/inventory-1.jpg"
+     
+  },
+  {
+      "name": "Electra Ticino 7D ",
+      "price": "120.00",
+      "quantity":"5",
+      "description": "the Ticino® picks up where bike builders of the 40s and 50s left off, giving it a true handcrafted feel not found in many of today.",
+      "img": "https://i.ibb.co/ZMtNV4C/inventory-2.jpg"
+  },
+  {
+      "name": "Emonda SLR 10",
+      "price": "160.00",
+      "quantity":"3",
+      "description": "The Emonda SLR 10 is the pinnacle of lightweight, no-compromise performance. This changes everything, are you ready",
+      "img": "https://i.ibb.co/C2JzJNh/inventory-3.png"
+  },
+  {
+      "name": "Men's Epic Comp",
+      "price": "140.00",
+      "quantity":"5",
+      "description": "The M5 premium aluminum with D'Aluisio Smartweld technology found on the Epic Comp Alloy.It's lightweight, stiff.",
+      "img": "https://i.ibb.co/FmpV67S/inventory-4.png"
+  },
+  {
+      "name": "Men's Tarmac Ultralight",
+      "price": "100.00",
+      "quantity":"7",
+      "description": "The new S-Works Tarmac Ultralight. Without a doubt, it's the fastest race bike you've ever ridden ",
+      "img": "https://i.ibb.co/TLh4C5g/inventory-6.png"
+  },
+  {
+      "name": "Men's Epic Comp",
+      "price": "57.000",
+      "quantity":"9",
+      "description": "It's lightweight, stiff, and can also take a beating. But not only that, you also get a redesigned version.",
+      "img": "https://i.ibb.co/XpP30j7/inventory-7.jpg"
+  },
+  {
+      "name": "S-Works Tarmac",
+      "price": "75.00",
+      "quantity":"3",
+      "description": "Turn traditional design on its head and develop the new S-Works Tarmac Ultralight. Without a doubt, it's the fastest race bike you've ever ridden",
+      "img": "https://i.ibb.co/C2JzJNh/inventory-3.png"
+  },
+  {
+      "name": "S-Works Roubaix",
+      "price": "55.00",
+      "quantity":"2",
+      "description": "The S-Works Roubaix with Shimano Dura-Ace Di2 is right at home at a local Fondo, a Saturday group ride, or a cobbled road race",
+      "img": "https://i.ibb.co/ZJzMr8s/inventory-8.png"
+  },
+  {
+      "name": "S-Works Venge ",
+      "price": "80.00",
+      "quantity":"5",
+      "description": "The S-Works Venge combine a frame with over a 1000 hours in the Wind Tunnel, a fully-integrated cockpit that eliminates exposed cables",
+      "img": "https://i.ibb.co/tPbWWPm/inventory-9.png"
+  }
+]
